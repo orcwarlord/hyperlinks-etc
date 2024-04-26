@@ -3,7 +3,7 @@
 1.
     * Download [great-britain.txt](great-britain.txt). This file contains some information about the the countries that make up Great Britain.
     * Using this content, create a **separate** web page for each country.
-        - Use the html template (https://github.com/CFT2111/Intro-to-HTML/blob/master/template.html) as your starting point and then copy in content from the *great-britain.txt* file.
+        - Use the html template as your starting point and then copy in content from the *great-britain.txt* file.
         - Mark-up the content e.g. make the name of the country a *h1* element, add a title, create a list for the capital, population and area facts.
         - Validate each of the web pages using the w3c validator, http://validator.w3.org/ and fix any errors.
 
